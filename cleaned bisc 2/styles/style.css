@@ -8,6 +8,10 @@
     --cream: #f5f5dc;
     --navy: #002147;
     --navy-deep: #001530;
+     --muted: #6b6470;
+    --grey-bg: #f2f2f2;
+    --serif: "Georgia", "Iowan Old Style", "Palatino Linotype", serif;
+    --sans: "Helvetica Neue", Arial, sans-serif;
 }
 
 *, *::before, *::after {

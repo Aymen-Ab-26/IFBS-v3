@@ -62,7 +62,7 @@
   text-transform: uppercase;
   color: var(--gold);
   font-weight: 700;
-  margin-bottom: 16px;
+  margin-top: 16px;
 }
 .intro h2 {
   font-size: clamp(30px, 3.6vw, 46px);
