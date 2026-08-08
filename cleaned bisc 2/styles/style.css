@@ -13,7 +13,9 @@
     --serif: "Georgia", "Iowan Old Style", "Palatino Linotype", serif;
     --sans: "Helvetica Neue", Arial, sans-serif;
 }
-
+*{
+    scrollbar-width: none;
+}
 *, *::before, *::after {
     margin: 0;
     padding: 0;
